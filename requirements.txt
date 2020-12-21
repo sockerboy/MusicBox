@@ -1,5 +1,5 @@
-requests
-eyed3==0.8.11
-pycryptodome
-quamash
-PyQt5
+requests==2.25.1
+eyed3==0.9.5
+pycryptodome==3.9.9
+quamash==0.6.1
+PyQt5==5.15.2
