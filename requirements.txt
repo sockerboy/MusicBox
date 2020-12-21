@@ -1,5 +1,5 @@
 requests
-eyed3==0.8
+eyed3==0.8.11
 pycryptodome
 quamash
 PyQt5
